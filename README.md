@@ -5,9 +5,8 @@ Preferences.sublime-settings and Distraction Free.sublime-settings
 
 ## Plugins
 
-#### Anaconda - Python IDE
-Anaconda linters are disabled because I use SublimeLinter instead.
-[https://github.com/DamnWidget/anaconda](https://github.com/DamnWidget/anaconda)
+* [**Anaconda - Python IDE**](https://github.com/DamnWidget/anaconda)
+  Anaconda linters are disabled because I use SublimeLinter instead.
 
 #### Djaneiro - Django Support
 [https://github.com/squ1b3r/Djaneiro](https://github.com/squ1b3r/Djaneiro)
