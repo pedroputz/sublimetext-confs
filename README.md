@@ -18,16 +18,20 @@ Anaconda linters are disabled because I use SublimeLinter instead.
 #### SideBarEnhancements
 [https://github.com/titoBouzout/SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 
-// SublimeLinter
+#### SublimeLinter
+[https://github.com/SublimeLinter/SublimeLinter3](https://github.com/SublimeLinter/SublimeLinter3)
 
-js:
-- npm install -g jshint
+##### SublimeLinter-contrib-scss-lint
+The plugin needs scss-lint - **gem install scss-lint**
 
-scss:
-- gem install scss-lint
+##### SublimeLinter-jshint
+The plugin needs jshint - **npm install -g jshint**
 
-pep8
-- pip install pep8
+##### SublimeLinter-pep8
+The plugin needs pep8 - **pip install pep8**
 
-pyflakes
-- pip install pyflakes
+##### SublimeLinter-pyflakes
+The plugin needs pyflakes - **pip install pyflakes**
+
+#### Theme - Spacegray
+[https://github.com/kkga/spacegray](https://github.com/kkga/spacegray)
