@@ -1,5 +1,10 @@
 # Sublime Text Confs
 
+## Installation
+Clone the repository as: *~/Library/Application Support/Sublime Text 3/*
+Open Sublime Text and Package Control will automaticaly download and install all plugins.
+Some plugins need extra steps to work correctly.
+
 ## Preferences
 Preferences.sublime-settings and Distraction Free.sublime-settings
 
