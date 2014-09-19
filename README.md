@@ -13,9 +13,9 @@ Preferences.sublime-settings and Distraction Free.sublime-settings
 * [**Anaconda**](https://github.com/DamnWidget/anaconda)
   *Anaconda linters are disabled because I use SublimeLinter instead.*
 
-* [**Djaneiro - Django Support**](https://github.com/squ1b3r/Djaneiro)
+* [**Djaneiro**](https://github.com/squ1b3r/Djaneiro)
 
-* [**SCSS - Syntax Bundle**](https://github.com/MarioRicalde/SCSS.tmbundle)
+* [**SCSS**](https://github.com/MarioRicalde/SCSS.tmbundle)
 
 * [**SideBarEnhancements**](https://github.com/titoBouzout/SideBarEnhancements)
 
