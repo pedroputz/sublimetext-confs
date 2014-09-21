@@ -38,5 +38,7 @@ Preferences.sublime-settings and Distraction Free.sublime-settings
 * [**Theme - Spacegray**](https://github.com/kkga/spacegray)
 
 ## Extra
-**symlink:** ln -s "/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
-
+**symlink:**
+```
+$ ln -s "/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+```
