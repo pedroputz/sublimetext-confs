@@ -36,3 +36,7 @@ Preferences.sublime-settings and Distraction Free.sublime-settings
       *pip install pyflakes*
 
 * [**Theme - Spacegray**](https://github.com/kkga/spacegray)
+
+## Extra
+**symlink:** ln -s "/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+
