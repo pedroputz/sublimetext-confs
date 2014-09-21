@@ -1,9 +1,9 @@
 # Sublime Text Confs
 
 ## Installation
-Clone the repository as: *~/Library/Application Support/Sublime Text 3/*
-Open Sublime Text and Package Control will automaticaly download and install all plugins.
-Some plugins need extra steps to work correctly.
+- Clone the repository as: *~/Library/Application Support/Sublime Text 3/*
+- Open Sublime Text and Package Control will automaticaly download and install all plugins.
+- Some plugins need extra steps to work correctly.
 
 ## Preferences
 Preferences.sublime-settings and Distraction Free.sublime-settings
@@ -14,6 +14,8 @@ Preferences.sublime-settings and Distraction Free.sublime-settings
   *Anaconda linters are disabled because I use SublimeLinter instead.*
 
 * [**Djaneiro**](https://github.com/squ1b3r/Djaneiro)
+
+* [**Git**](https://github.com/kemayo/sublime-text-git)
 
 * [**SCSS**](https://github.com/MarioRicalde/SCSS.tmbundle)
 
