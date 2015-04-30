@@ -29,11 +29,8 @@ Preferences.sublime-settings and Distraction Free.sublime-settings
     * [SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint)
       *npm install -g jshint*
 
-    * [SublimeLinter-pep8](https://github.com/SublimeLinter/SublimeLinter-pep8)
-      *pip install pep8*
-
-    * [SublimeLinter-pyflakes](https://github.com/SublimeLinter/SublimeLinter-pyflakes)
-      *pip install pyflakes*
+    * [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
+      *pip install flake8*
 
 * [Theme - Spacegray](https://github.com/kkga/spacegray)
 
