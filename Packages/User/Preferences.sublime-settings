@@ -22,7 +22,8 @@
 		".migrations_deploy",
 		".sass-cache",
 		"cache",
-		"node_modules"
+		"node_modules",
+		"bower_components"
 	],
 	"font_face": "Monaco",
 	"font_options":

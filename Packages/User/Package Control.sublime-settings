@@ -1,9 +1,14 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Anaconda",
+		"AngularJS",
 		"Djaneiro",
+		"EditorConfig",
 		"Git",
 		"Package Control",
 		"SCSS",
@@ -11,9 +16,8 @@
 		"SQL (simple-db-migrate)",
 		"SublimeLinter",
 		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-flake8",
 		"SublimeLinter-jshint",
-		"SublimeLinter-pep8",
-		"SublimeLinter-pyflakes",
 		"Theme - Spacegray"
 	]
 }
