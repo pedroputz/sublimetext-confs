@@ -6,7 +6,7 @@
 	"installed_packages":
 	[
 		"Anaconda",
-		"AngularJS",
+		"Babel",
 		"Djaneiro",
 		"EditorConfig",
 		"Git",
@@ -15,6 +15,7 @@
 		"SideBarEnhancements",
 		"SQL (simple-db-migrate)",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-jshint",
