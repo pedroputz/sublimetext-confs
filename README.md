@@ -41,13 +41,8 @@ Preferences.sublime-settings and Distraction Free.sublime-settings
 * [Theme - Spacegray](https://github.com/kkga/spacegray)
 
 ## Extra
-**symlink:**
+**symlink and new icon:**
 ```
-$ ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
-```
-
-**new icon:**
-```
-$ cp -f Sublime\ Text.icns /Applications/Sublime\ Text.app/Contents/Resources/Sublime\ Text.icns
+$ ./setup.sh
 ```
 [Sublime Text Icon by Jannik Sieber](https://dribbble.com/shots/1827488-Final-Sublime-Text-Replacement-Icon?list=users&offset=13)
