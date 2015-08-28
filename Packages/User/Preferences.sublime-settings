@@ -1,4 +1,7 @@
 {
+	"animation_enabled": false,
+	"auto_complete_delay": 5,
+	"bold_folder_labels": true,
 	"caret_extra_bottom": 5,
 	"caret_extra_top": 5,
 	"caret_extra_width": 1,
@@ -32,12 +35,10 @@
 	"font_size": 10.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"line_padding_top": 1,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"margin": 6,
+	"remember_full_screen": true,
 	"scroll_past_end": false,
 	"show_encoding": true,
 	"show_tab_close_buttons": false,
