@@ -11,19 +11,17 @@
 		"*.scssc",
 		"*.DS_Store",
 		"*.pyc",
-		"*.log"
+		"*.log",
+		"*.apib"
 	],
 	"fold_buttons": false,
 	"folder_exclude_patterns":
 	[
 		".git",
-		"static_files",
-		"marketplace_packages",
-		".migrations_deploy",
 		".sass-cache",
-		"cache",
-		"node_modules",
-		"bower_components"
+		"bower_components",
+		"dist",
+		"node_modules"
 	],
 	"font_face": "Monaco",
 	"font_options":
@@ -31,7 +29,7 @@
 		"subpixel_antialias",
 		"no_round"
 	],
-	"font_size": 12.0,
+	"font_size": 10.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
