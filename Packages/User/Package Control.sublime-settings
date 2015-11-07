@@ -6,22 +6,19 @@
 	],
 	"installed_packages":
 	[
-		"Anaconda",
 		"Babel",
 		"Babel Snippets",
 		"DashDoc",
-		"Djaneiro",
 		"EditorConfig",
 		"Git",
+		"Material Theme",
+		"Oceanic Next Color Scheme",
 		"Package Control",
+		"Pretty JSON",
 		"SCSS",
 		"SideBarEnhancements",
-		"SQL (simple-db-migrate)",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-contrib-scss-lint",
-		"SublimeLinter-flake8",
-		"SublimeLinter-jshint",
-		"Theme - Spacegray"
+		"SublimeLinter-contrib-scss-lint"
 	]
 }

@@ -3,11 +3,11 @@ Backup/
 Cache/
 Index/
 Local/
-Installed Packages/[0-9|a-o|q-z]*
+Installed Packages/[0-9|a-o|pr|q-z]*
 Packages/[a-t|v-z]*
 Packages/User/Package Control.cache
 Packages/User/Package Control.last-run
 Packages/User/Package Control.merged-ca-bundle
 Packages/User/Package Control.system-ca-bundle
 Packages/User/Package Control.user-ca-bundle
-Packages/User/SideBarEnhancements/
+Packages/User/SublimeLinter

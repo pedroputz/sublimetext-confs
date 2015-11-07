@@ -12,22 +12,6 @@
                 "args": [],
                 "excludes": []
             },
-            "flake8": {
-                "@disable": false,
-                "args": [],
-                "builtins": "",
-                "excludes": [],
-                "ignore": "",
-                "jobs": "1",
-                "max-complexity": -1,
-                "max-line-length": null,
-                "select": ""
-            },
-            "jshint": {
-                "@disable": true,
-                "args": [],
-                "excludes": []
-            },
             "scss": {
                 "@disable": false,
                 "args": [],
@@ -54,13 +38,8 @@
         "show_errors_on_save": false,
         "show_marks_in_minimap": true,
         "syntax_map": {
-            "html (django)": "html",
-            "html (rails)": "html",
             "html 5": "html",
-            "javascript (babel)": "javascript",
-            "php": "html",
-            "python": "python",
-            "python django": "python"
+            "javascript (babel)": "javascript"
         },
         "warning_color": "DDB700",
         "wrap_find": true

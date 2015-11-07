@@ -10,38 +10,24 @@ Preferences.sublime-settings and Distraction Free.sublime-settings
 
 ## Plugins
 
-* [Anaconda](https://github.com/DamnWidget/anaconda)
-  *Anaconda linters are disabled because I use SublimeLinter instead.*
-
 * [Babel](https://github.com/babel/babel-sublime)
-
+* [Bebel Snippets](https://github.com/babel/babel-sublime-snippets)
+* [DashDoc](https://github.com/farcaller/DashDoc)
 * [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)
-
-* [Djaneiro](https://github.com/squ1b3r/Djaneiro)
-
 * [Git](https://github.com/kemayo/sublime-text-git)
-
+* [Material Theme](https://github.com/equinusocio/material-theme)
+* [Oceanic Next Color Scheme](https://github.com/voronianski/oceanic-next-color-scheme)
+* [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson)
 * [SCSS](https://github.com/MarioRicalde/SCSS.tmbundle)
-
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
-
-* [SQL (simple-db-migrate)](https://github.com/caiogondim/simple-db-migrate-sublime-syntax-highlight)
-
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
-
+    * [SublimeLinter-eslint](https://github.com/roadhump/SublimeLinter-eslint)
+      *npm install -g eslint*
     * [SublimeLinter-contrib-scss-lint](https://github.com/attenzione/SublimeLinter-scss-lint)
       *gem install scss-lint*
 
-    * [SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint)
-      *npm install -g jshint*
-
-    * [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
-      *pip install flake8*
-
-* [Theme - Spacegray](https://github.com/kkga/spacegray)
-
 ## Extra
-**symlink and new icon:**
+**symlink, new icon and Source Code Pro Medium Font:**
 ```
 $ ./setup.sh
 ```

@@ -6,7 +6,7 @@
 	"caret_extra_top": 5,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -26,33 +26,37 @@
 		"dist",
 		"node_modules"
 	],
-	"font_face": "Monaco",
+	"font_face": "Source Code Pro Medium",
 	"font_options":
 	[
-		"subpixel_antialias",
-		"no_round"
+		"no_round",
+		"subpixel_antialias"
 	],
-	"font_size": 10.0,
+	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"margin": 6,
-	"remember_full_screen": true,
+	"material_theme_disable_folder_animation": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"overlay_scroll_bars": "enabled",
 	"scroll_past_end": false,
 	"show_encoding": true,
 	"show_tab_close_buttons": false,
-	"spacegray_sidebar_font_normal": true,
-	"spacegray_sidebar_tree_small": true,
-	"spacegray_tabs_auto_width": true,
-	"spacegray_tabs_font_normal": true,
-	"spacegray_tabs_large": true,
 	"tab_size": 4,
-	"theme": "Spacegray.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": false,
 	"trim_trailing_white_space_on_save": true,
