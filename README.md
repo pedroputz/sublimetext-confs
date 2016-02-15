@@ -9,19 +9,19 @@
 Preferences.sublime-settings and Distraction Free.sublime-settings
 
 ## Plugins
-
 * [Babel](https://github.com/babel/babel-sublime)
 * [Bebel Snippets](https://github.com/babel/babel-sublime-snippets)
 * [DashDoc](https://github.com/farcaller/DashDoc)
 * [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)
 * [Git](https://github.com/kemayo/sublime-text-git)
+* [Jinja2](https://github.com/kudago/jinja2-tmbundle)
 * [Material Theme](https://github.com/equinusocio/material-theme)
 * [Oceanic Next Color Scheme](https://github.com/voronianski/oceanic-next-color-scheme)
 * [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson)
-* [SCSS](https://github.com/MarioRicalde/SCSS.tmbundle)
+* [Sass Textmate Bundle](https://github.com/nathos/sass-textmate-bundle)
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
-    * [SublimeLinter-eslint](https://github.com/roadhump/SublimeLinter-eslint)
+    * [SublimeLinter-contrib-eslint](https://github.com/roadhump/SublimeLinter-eslint)
       *npm install -g eslint*
     * [SublimeLinter-contrib-scss-lint](https://github.com/attenzione/SublimeLinter-scss-lint)
       *gem install scss-lint*

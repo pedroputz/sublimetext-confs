@@ -22,6 +22,7 @@
 	[
 		".git",
 		".sass-cache",
+		"api",
 		"bower_components",
 		"dist",
 		"node_modules"
@@ -47,6 +48,7 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"margin": 6,
+	"material_theme_accent_red": true,
 	"material_theme_disable_folder_animation": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
@@ -55,7 +57,7 @@
 	"scroll_past_end": false,
 	"show_encoding": true,
 	"show_tab_close_buttons": false,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": false,
